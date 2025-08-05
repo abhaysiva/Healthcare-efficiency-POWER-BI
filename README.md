@@ -112,11 +112,6 @@ DARK MODE
    ```bash
    git clone https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI.git
    ```
-2. <p align="left">
-  <a href="https://youtu.be/hm4Iq2Mm2pQ?si=2mRsphwzfhAkzya1">
-    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="Watch on YouTube">
-  </a>
-</p>
 ---
 
 
