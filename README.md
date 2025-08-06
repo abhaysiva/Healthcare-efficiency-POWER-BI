@@ -147,4 +147,4 @@ This project underscores the importance of leveraging data analytics in the heal
 
 ### Connect With Me
 
-**[[ABHAY SIVA M]](www.linkedin.com/in/abhaysiva)**
+**[ABHAY SIVA M](https://www.linkedin.com/in/abhaysiva/)**
