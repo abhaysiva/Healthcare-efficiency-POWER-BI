@@ -7,6 +7,11 @@
 3. [Highlights](#highlights)
 4. [Insights](#insights)
 5. [Conclusion](#conclusion)
+---
+
+| Cover Dashboard | 
+|--------------------------|
+| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/1.png)| 
 
 ---
 ##  Project Overview
@@ -50,11 +55,6 @@ This project leverages advanced DAX functions to drive critical healthcare KPIs 
 
 ## Insights
 
----
-
-| Cover Dashboard | 
-|--------------------------|
-| ![](https://github.com/abhaysiva/Healthcare-efficiency-POWER-BI/blob/33257b59a5a7966692903b1b66ba30c74541851f/SnapShot%20of%20Dashboards/1.png)| 
 
 ---
 | Financial Dashboard | 
